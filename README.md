@@ -37,7 +37,7 @@ graph LR
     subgraph NOV["🟣 Novedades 2.6"]
         N1(Automation Mesh - Escalabilidad distribuida):::detail
         N2(Event-Driven Ansible - Automatización reactiva):::detail
-        N3("Ansible Lightspeed - IA asistida - Ansible MCP Server (Integración con diversos LLM)"):::detail
+        N3("Ansible Lightspeed (IA)\n+ MCP Server (Integración con LLMs)"):::detail
     end
     subgraph VEN["🟢 Ventaja Competitiva"]
         V1(Agentless - Sin agentes):::detail
